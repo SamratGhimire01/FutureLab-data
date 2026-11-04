@@ -1,0 +1,32 @@
+{
+ "done": {},
+ "notes": {
+  "w1d1": ""
+ },
+ "tests": {},
+ "refl": {},
+ "books": {},
+ "name": "",
+ "days": [
+  "2026-11-04"
+ ],
+ "rest": [],
+ "time": {
+  "2026-11-04": 1183
+ },
+ "timer": {
+  "running": false,
+  "startedAt": 0,
+  "acc": 0
+ },
+ "posts": {},
+ "know": {},
+ "built": {
+  "w1d1": false
+ },
+ "last": {
+  "w1d2": 0
+ },
+ "checks": {},
+ "verified": {}
+}
