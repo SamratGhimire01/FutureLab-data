@@ -8,15 +8,17 @@
  "books": {},
  "name": "Samrat Ghimire",
  "days": [
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-18"
  ],
  "rest": [],
  "time": {
-  "2026-11-04": 1183
+  "2026-11-04": 1183,
+  "2026-11-18": 39423
  },
  "timer": {
-  "running": true,
-  "startedAt": 1794916483057,
+  "running": false,
+  "startedAt": 0,
   "acc": 0
  },
  "posts": {},
